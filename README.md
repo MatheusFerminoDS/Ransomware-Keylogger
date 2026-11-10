@@ -24,11 +24,10 @@ As atividades foram realizadas no Kali Linux, em ambiente local e controlado.
 ## Estrutura do projeto
 
 ```text
-DIO-Ransomware-Keylogger/
+Ransomware-Keylogger/
 ├── documentacao/
 │   ├── keylogger.md
 │   └── ransomware.md
-├── evidencias/
 ├── keylogger/
 │   └── keylogger.py
 ├── laboratorio/
@@ -37,9 +36,9 @@ DIO-Ransomware-Keylogger/
 │       ├── documento.txt
 │       └── financeiro.txt
 ├── ransomware/
-│   ├── teste_criptografia.py
 │   ├── criptografia_arquivos.py
-│   └── descriptografia.py
+│   ├── descriptografia.py
+│   └── teste_criptografia.py
 ├── .gitignore
 └── README.md
 ```
