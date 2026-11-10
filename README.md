@@ -93,8 +93,8 @@ python keylogger/keylogger.py
 Clone o repositório e acesse a pasta do projeto:
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd DIO-Ransomware-Keylogger
+git clone https://github.com/MatheusFerminoDS/Ransomware-Keylogger.git
+cd Ransomware-Keylogger
 ```
 
 Crie e ative um ambiente virtual:
