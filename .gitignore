@@ -1,0 +1,16 @@
+# Ambiente virtual Python
+.venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.py[cod]
+
+# Chave criptográfica privada
+laboratorio/chave_teste.key
+
+# Arquivos gerados durante os testes
+laboratorio/arquivos_teste/*.enc
+laboratorio/arquivos_teste/*_recuperado.txt
+
+# Registros locais do simulador
+keylogger/registro.txt
