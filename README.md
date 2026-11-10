@@ -1,8 +1,8 @@
-# Simulação de Ransomware e Keylogger em Python
+# Ransomware & Keylogger — Python Security Lab
 
 ## Sobre o projeto
 
-Projeto educacional desenvolvido como parte de um desafio da DIO, com o objetivo de estudar conceitos relacionados a ransomware, keylogger, criptografia de arquivos e segurança da informação.
+Projeto independente desenvolvido em Python para explorar conceitos de segurança da informação por meio de simulações controladas de ransomware e keylogger.
 
 As atividades foram realizadas no Kali Linux, em ambiente local e controlado.
 
@@ -137,4 +137,4 @@ A chave criptográfica e os arquivos gerados durante os testes são mantidos loc
 
 MatheusFerminoDS
 
-Projeto desenvolvido para fins educacionais como parte de um desafio da DIO.
+Projeto independente desenvolvido em Python para explorar conceitos de segurança da informação por meio de simulações controladas de ransomware e keylogger.
